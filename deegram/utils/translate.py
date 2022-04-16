@@ -1,7 +1,7 @@
 VERSION = "0.2.4"
 CREATOR = "@infotechIT"
 BOT_NAME = "Music Bot"
-YOUTUBE = "https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"
+YOUTUBE = "https://www.youtube.com/channel/UCev6J4bZGwXevgmcvbmtGmw"
 WELCOME_MSG = (
     f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
     "Click /help for more information\n\n"
