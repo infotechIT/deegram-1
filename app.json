@@ -6,9 +6,9 @@
     "telegram",
     "deezer"
   ],
-  "repository": "https://github.com/breakdowns/deegram",
-  "success_url": "https://github.com/breakdowns/deegram",
-  "website": "https://github.com/breakdowns/deegram",
+  "repository": "https://github.com//deegram",
+  "success_url": "https://github.com/infotechITk/deegram",
+  "website": "https://github.com/infotechIT/deegram",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
